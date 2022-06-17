@@ -1,0 +1,14 @@
+[
+  {
+    "package": "doRedis",
+    "oncran": true
+  },
+  {
+    "package": "irlba",
+    "oncran": true
+  },
+  {
+    "package": "threejs",
+    "oncran": true
+  }
+]
