@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "threejs",
+    "package": "irlba",
     "oncran": true
   },
   {
-    "package": "irlba",
+    "package": "threejs",
     "oncran": true
   }
 ]
