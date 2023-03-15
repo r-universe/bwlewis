@@ -8,13 +8,13 @@
 	url = https://github.com/bwlewis/doredis
 	shallow = true
 	registered = true
-[submodule "irlba"]
-	path = irlba
-	url = https://github.com/bwlewis/irlba
-	shallow = true
-	registered = true
 [submodule "threejs"]
 	path = threejs
 	url = https://github.com/bwlewis/rthreejs
+	shallow = true
+	registered = true
+[submodule "irlba"]
+	path = irlba
+	url = https://github.com/bwlewis/irlba
 	shallow = true
 	registered = true
